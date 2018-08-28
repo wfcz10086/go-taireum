@@ -11,8 +11,8 @@ golang 最新 https://www.golangtc.com/download
 
 geth客户端编译
 
-    git clone https://github.com/itisaid/go-ethereum.git
-    cd go-ethereum
+    git clone https://github.com/taireum/go-taireum.git
+    cd go-taireum
     build/env.sh go run build/ci.go install
 
 注意：
